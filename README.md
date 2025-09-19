@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-CyberSecurity-ffffff?style=for-the-badge&logo=lock&logoColor=black"     />
+</p>
 
+---
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=landim9&bg_color=white&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
 <!--
-**landim9/landim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landim9&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=landim9&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
+</p>
+<img src="https://img.shields.io/badge/Security-Ethical%20Hacker-4f1d82?style=for-the-badge&logo=shield&logoColor=white" />
+--!>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
