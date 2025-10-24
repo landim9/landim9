@@ -3,8 +3,10 @@
 </p>
 
 ---
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=landim9&bg_color=white&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
+ <div align="center">
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/landim9/landim9/output/github-contribution-grid-snake.svg" />
+
+ </div>
 <!--
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landim9&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
