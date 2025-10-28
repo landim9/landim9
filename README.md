@@ -1,7 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=family&pause=1000&color=3847F7&multiline=true&width=435&lines=Wellcome+my+repository+)](https://git.io/typing-svg)
-
-  
+<img src="https://raw.githubusercontent.com/landim9/landim9/output/snake.svg" alt="Snake animation" />
   ---
 
 
