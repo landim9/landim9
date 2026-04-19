@@ -3,7 +3,7 @@
 <p align="center">
   Desenvolvedor Full-Stack apaixonado por criar soluções web modernas e funcionais.
   <br/>
-  Baseado em Jaguariúna, São Paulo 🇧🇷
+  Jaguariúna, São Paulo 🇧🇷
 </p>
 
 <p align="center">
