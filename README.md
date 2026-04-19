@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://landim.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/landim9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -20,8 +20,9 @@
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor Full-Stack com foco em **JavaScript**, **Node.js** e **Python**
-- 🎓 Formado pelo **SENAI** em desenvolvimento de sistemas
-- 🌐 Tenho experiência com projetos **MVC**, **CRUD** e **APIs RESTful**
+- 🎓 Cursando **Ciências da Computação** na **UNIFAJ** — 1º Semestre
+- 📜 Formado pelo **SENAI** em Desenvolvimento de Sistemas
+- 🌐 Experiência com projetos **MVC**, **CRUD** e **APIs RESTful**
 - 📦 Gosto de trabalhar com padrões de projeto (**Design Patterns**)
 - 🔭 Atualmente aprofundando conhecimentos em **back-end** e **arquitetura de software**
 
