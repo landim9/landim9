@@ -44,17 +44,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Transportadora Passos Aguiar](https://github.com/landim9/Transportadora-Passos-Aguiar) | Sistema Full-Stack com MVC, CRUD e API | JavaScript |
-| [Design Patterns](https://github.com/landim9/design-patterns) | Estudo e aplicação de padrões de projeto | — |
-| [Python](https://github.com/landim9/Python) | Projetos e exercícios em Python | Python |
-| [Automóveis](https://github.com/landim9/automoveis) | Aplicação web de automóveis | JavaScript |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
